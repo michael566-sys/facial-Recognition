@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>结果</title>
+<title>结果/Result</title>
 </head>
 <body>
-		图片已储存在这里：${result}
+		图片已储存在这里/Recognized image has been saved here：${result}
 </body>
 </html>
